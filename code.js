@@ -1,0 +1,1 @@
+$('<style>.item[tip*=upgraded]{ box-shadow: inset 0 0 6px 5px lime; border-radius: 11px; } .item[tip*=legendary]{ box-shadow:inset 0 0 6px 5px #B08; border-radius: 11px; } .item[tip*=heroic]{ box-shadow: inset 0 0 6px 5px #2090FE; border-radius: 11px; } .item[tip*=unique]{ box-shadow: inset 0 0 9px 5px goldenrod; border-radius: 14px; }</style>').appendTo('head');
